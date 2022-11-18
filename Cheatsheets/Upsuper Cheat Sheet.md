@@ -1,0 +1,1 @@
+https://upsuper.github.io/rust-cheatsheet/?dark,large,single

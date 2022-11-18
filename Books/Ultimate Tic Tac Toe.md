@@ -1,0 +1,1 @@
+https://minimax.dev/docs/ultimate/
