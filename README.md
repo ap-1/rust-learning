@@ -1,3 +1,3 @@
 # rust-learning
 
-Resources for learning the rust language
+Resources for learning the Rust programming language
