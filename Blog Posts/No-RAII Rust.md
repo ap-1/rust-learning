@@ -1,1 +1,1 @@
-https://matklad.github.io/2022/10/06/hard-mode-rust.htmlhttps://github.com/rust-lang/rustlings/
+https://matklad.github.io/2022/10/06/hard-mode-rust.html
